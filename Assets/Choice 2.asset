@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 472a53bdba3274ef38c836d903dd2cc6, type: 3}
+  m_Name: Choice 2
+  m_EditorClassIdentifier: 
+  storyText: The subspace army gets to fight once more and loses. The troops lead
+    by the Smash Brothers start and work their way through the wounded. O_O
+  states:
+  - {fileID: 11400000, guid: 18b525eea759b425c8571c095415eb9b, type: 2}
